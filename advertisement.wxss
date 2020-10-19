@@ -1,0 +1,17 @@
+.adv-img{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.tiaoguo{
+  font-size: 25rpx;
+  background-color: rgba(255,255,255,.7);
+  border-radius: 80rpx;
+  display: inline-block;
+  margin-left: 10rpx;
+  position: absolute;
+  z-index: 999;
+  right: 50rpx;
+  top: 160rpx;
+  padding: 8rpx 20rpx;
+}
